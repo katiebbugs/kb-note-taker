@@ -5,6 +5,7 @@ An application where you can write, save, and delete notes.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://kb-note-taker.herokuapp.com/)
 
 Walk-Through Video:
+https://drive.google.com/file/d/1ysf9x-ouzQI63YOawndMNnUxF211eGUd/view?usp=sharing
 
 -----
 
